@@ -1,0 +1,32 @@
+1. mkdir - make / create a directory
+2. cd - change directory 
+3. touch - to create an empty file inside a folder : touch filename
+4. nano - create file (create a script) : nano filename
+5. vi editor - to create files : vi filename
+6. gedit - ubuntu machine 
+7. cat - to view the contents of the file - using cat one can create a file like : cat > filename 
+8. sed-i : to change a character in existing name
+9. cat >> (rewriting/redirecting command)
+grep 
+sed
+wc
+head - in a large file to view starting few records 
+tail - in a large file to view ending few records 
+(cat head -n 40 | wc )
+to isntall an app in ubuntu - sudo app-get install appname
+cp sourcename target - to copy a file 
+mv - move a file
+rm - to remove a file
+rmdir - remove directory
+rmdir -r : removes
+du - disk utilization 
+hostname - to find out the hostname 
+ssh-keygen - to generate a key for connecting to SSH
+date - displays date
+cal - calendar
+chmod - change a file's permissions : chmod 777 filename.txt
+ls - lrt : view all details
+chown - change owner
+
+
+
